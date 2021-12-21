@@ -1,1 +1,1 @@
-![Run on replit](https://replit.com/badge/github/everson1/Simple-WebSite)(https://replit.com/github/everson1/Simple-WebSite)
+[![Run on replit](https://replit.com/badge/github/everson1/Simple-WebSite)](https://replit.com/github/everson1/Simple-WebSite)
